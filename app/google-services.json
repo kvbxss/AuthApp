@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020604470465",
+    "project_id": "aurelo-c80fd",
+    "storage_bucket": "aurelo-c80fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020604470465:android:2c7f50cad67bcc027e3040",
+        "android_client_info": {
+          "package_name": "com.example.authenticationloginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020604470465-87q0svetbdpfqkjou1g1efqi64o9e02p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSILQL6-JwpD14VYCcqaJR-RHOuz4wN88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020604470465-87q0svetbdpfqkjou1g1efqi64o9e02p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
